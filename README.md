@@ -4,13 +4,13 @@ to see what players are performing well over
 all stat lines.
 
 ## Table of Contents
-*[Technologies](#technologies)
-*[Setup](#setup)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
 ## Technologies
 Project is created with:
-*R
-*SQL
+* R
+* SQL
 
 ## Setup
 To run this project:
