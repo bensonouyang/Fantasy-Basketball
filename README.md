@@ -9,8 +9,8 @@ all stat lines.
 
 ## Technologies
 Project is created with:
-* R
-* SQL
+* Python
+
 
 ## Setup
 To run this project:
