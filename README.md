@@ -1,5 +1,5 @@
 # Top Fantasy Basketball Players
-Using SQL to gather stats on NBA players
+Webscrapping off a NBA data site to gather stats on NBA players
 to see what players are performing well over
 all stat lines.
 
