@@ -14,6 +14,6 @@ Project is created with:
 
 ## Setup
 To run this project:
-* Run the code
+* Run the `Fantasy_Player_List.py`
 * Choose what position of a player you want
 * Or choose a team
